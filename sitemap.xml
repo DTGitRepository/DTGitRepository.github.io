@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dturner.cloud/about/</loc>
+    <loc>https://dtgitrepository.github.io/about/</loc>
     <lastmod>2021-03-18T17:08:37+00:00</lastmod>
   </url><url>
-    <loc>http://dturner.cloud/categories/</loc>
+    <loc>https://dtgitrepository.github.io/categories/</loc>
   </url><url>
-    <loc>http://dturner.cloud/</loc>
+    <loc>https://dtgitrepository.github.io/</loc>
   </url><url>
-    <loc>http://dturner.cloud/tags/</loc>
+    <loc>https://dtgitrepository.github.io/tags/</loc>
   </url>
 </urlset>
