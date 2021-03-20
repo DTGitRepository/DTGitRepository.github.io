@@ -2,7 +2,7 @@ baseURL = "https://dtgitrepository.github.io/"
 languageCode = "en-us"
 title = "dturner.cloud"
 theme = "m10c"
-googleAnalytics = "G-05MC70WMFB"
+#googleAnalytics = "G-05MC70WMFB"
 [menu]
 	[[menu.main]]
 		identifier = "home"
