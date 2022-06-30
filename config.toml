@@ -21,7 +21,7 @@ theme = "m10c"
 	[[params.social]]
 		icon = "linkedin"
 		name = "LinkedIn"
-		url = "https://linkedin.com/in/declan-turner-os"
+		url = "https://linkedin.com/in/declan-turner-lumintech"
 	[[params.social]]
 		icon = "github"
 		name = "GitHub"
