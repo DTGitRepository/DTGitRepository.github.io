@@ -18,6 +18,7 @@ theme = "m10c"
 [params]
 	author = "Declan Turner"
 	description = "My ramblings on things Cloud, DevOps or Tech related"
+	avatar = "/static/avatar.png"
 	[[params.social]]
 		icon = "linkedin"
 		name = "LinkedIn"
