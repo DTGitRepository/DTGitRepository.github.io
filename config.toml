@@ -1,4 +1,4 @@
-baseURL = "https://dtgitrepository.github.io/"
+baseURL = "https://dturner.cloud/"
 languageCode = "en-us"
 title = "dturner.cloud"
 theme = "m10c"
