@@ -1,7 +1,6 @@
 baseURL = "https://dturner.cloud/"
 languageCode = "en-us"
 title = "Declan Turner | DevOps"
-name = "dturner.cloud"
 theme = "m10c"
 #googleAnalytics = "G-05MC70WMFB"
 [menu]
@@ -17,6 +16,7 @@ theme = "m10c"
 		weight = 2
 
 [params]
+	name = "dturner.cloud"
 	author = "Declan Turner"
 	description = "My ramblings on things Cloud, DevOps or Tech related"
 	avatar = "/avatar.png"
