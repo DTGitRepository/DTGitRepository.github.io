@@ -23,7 +23,7 @@ googleAnalytics = "G-05MC70WMFB"
 	[[params.social]]
 		icon = "linkedin"
 		name = "LinkedIn"
-		url = "https://linkedin.com/in/declan-turner-lumintech"
+		url = "https://linkedin.com/in/declan-turner-devops"
 	[[params.social]]
 		icon = "github"
 		name = "GitHub"
